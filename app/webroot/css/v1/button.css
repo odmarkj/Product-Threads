@@ -1,0 +1,14 @@
+.search-box{
+	padding: 3px;
+	border: 1px solid #333333;
+	background-color: #ffffff;
+	color: #111111;
+	font-size: 16px;
+}
+.search-go{
+	padding: 2px;
+	border: 1px solid #333333;
+	background-color: #ffffff;
+	color: #111111;
+	font-size: 16px;
+}

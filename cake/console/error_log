@@ -1,0 +1,295 @@
+[25-Aug-2009 01:07:04] PHP Fatal error:  Class 'ConnectionManager' not found in /home/productt/public_html/app/vendors/shells/twitter.php on line 10
+[25-Aug-2009 01:11:55] PHP Fatal error:  Class 'ConnectionManager' not found in /home/productt/public_html/app/vendors/shells/twitter.php on line 11
+[25-Aug-2009 01:15:06] PHP Notice:  Undefined property: TwitterShell::$User in /home/productt/public_html/app/vendors/shells/twitter.php on line 34
+[25-Aug-2009 01:15:06] PHP Fatal error:  Call to a member function find() on a non-object in /home/productt/public_html/app/vendors/shells/twitter.php on line 34
+[25-Aug-2009 01:15:44] PHP Fatal error:  Call to undefined method TwitterShell::set() in /home/productt/public_html/app/vendors/shells/twitter.php on line 49
+[25-Aug-2009 02:10:05] PHP Notice:  Undefined index:  Feed in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[25-Aug-2009 02:10:05] PHP Warning:  Invalid argument supplied for foreach() in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[25-Aug-2009 04:45:02] PHP Notice:  Undefined index:  Feed in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[25-Aug-2009 04:45:02] PHP Warning:  Invalid argument supplied for foreach() in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[25-Aug-2009 04:55:02] PHP Notice:  Undefined index:  Feed in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[25-Aug-2009 04:55:02] PHP Warning:  Invalid argument supplied for foreach() in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[25-Aug-2009 05:20:02] PHP Notice:  Undefined index:  Feed in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[25-Aug-2009 05:20:03] PHP Warning:  Invalid argument supplied for foreach() in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[25-Aug-2009 05:30:04] PHP Notice:  Undefined index:  Feed in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[25-Aug-2009 05:30:04] PHP Warning:  Invalid argument supplied for foreach() in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[25-Aug-2009 06:10:04] PHP Notice:  Undefined index:  Feed in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[25-Aug-2009 06:10:04] PHP Warning:  Invalid argument supplied for foreach() in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[25-Aug-2009 06:20:03] PHP Notice:  Undefined index:  Feed in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[25-Aug-2009 06:20:03] PHP Warning:  Invalid argument supplied for foreach() in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[25-Aug-2009 06:35:02] PHP Notice:  Undefined index:  Feed in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[25-Aug-2009 06:35:02] PHP Warning:  Invalid argument supplied for foreach() in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[25-Aug-2009 06:40:03] PHP Notice:  Undefined index:  Feed in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[25-Aug-2009 06:40:03] PHP Warning:  Invalid argument supplied for foreach() in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[25-Aug-2009 07:50:02] PHP Notice:  Undefined index:  Feed in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[25-Aug-2009 07:50:02] PHP Warning:  Invalid argument supplied for foreach() in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[25-Aug-2009 08:00:10] PHP Notice:  Undefined index:  Feed in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[25-Aug-2009 08:00:10] PHP Warning:  Invalid argument supplied for foreach() in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[25-Aug-2009 08:05:02] PHP Notice:  Undefined index:  Feed in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[25-Aug-2009 08:05:02] PHP Warning:  Invalid argument supplied for foreach() in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[25-Aug-2009 08:10:09] PHP Notice:  Undefined index:  Feed in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[25-Aug-2009 08:10:09] PHP Warning:  Invalid argument supplied for foreach() in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[25-Aug-2009 08:20:07] PHP Notice:  Undefined index:  Feed in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[25-Aug-2009 08:20:07] PHP Warning:  Invalid argument supplied for foreach() in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[25-Aug-2009 09:10:04] PHP Notice:  Undefined index:  Feed in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[25-Aug-2009 09:10:04] PHP Warning:  Invalid argument supplied for foreach() in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[25-Aug-2009 09:30:09] PHP Notice:  Undefined index:  Feed in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[25-Aug-2009 09:30:09] PHP Warning:  Invalid argument supplied for foreach() in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[25-Aug-2009 09:55:02] PHP Notice:  Undefined index:  Feed in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[25-Aug-2009 09:55:02] PHP Warning:  Invalid argument supplied for foreach() in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[25-Aug-2009 10:00:05] PHP Notice:  Undefined index:  Feed in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[25-Aug-2009 10:00:05] PHP Warning:  Invalid argument supplied for foreach() in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[25-Aug-2009 10:10:03] PHP Notice:  Undefined index:  Feed in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[25-Aug-2009 10:10:03] PHP Warning:  Invalid argument supplied for foreach() in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[25-Aug-2009 10:15:04] PHP Notice:  Undefined index:  Feed in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[25-Aug-2009 10:15:04] PHP Warning:  Invalid argument supplied for foreach() in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[25-Aug-2009 11:00:09] PHP Notice:  Undefined index:  Feed in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[25-Aug-2009 11:00:09] PHP Warning:  Invalid argument supplied for foreach() in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[25-Aug-2009 11:55:02] PHP Notice:  Undefined index:  Feed in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[25-Aug-2009 11:55:02] PHP Warning:  Invalid argument supplied for foreach() in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[25-Aug-2009 13:10:02] PHP Notice:  Undefined index:  Feed in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[25-Aug-2009 13:10:02] PHP Warning:  Invalid argument supplied for foreach() in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[25-Aug-2009 13:25:03] PHP Notice:  Undefined index:  Feed in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[25-Aug-2009 13:25:03] PHP Warning:  Invalid argument supplied for foreach() in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[25-Aug-2009 15:35:35] PHP Notice:  Undefined index:  Feed in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[25-Aug-2009 15:35:35] PHP Warning:  Invalid argument supplied for foreach() in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[25-Aug-2009 15:50:02] PHP Notice:  Undefined index:  Feed in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[25-Aug-2009 15:50:02] PHP Warning:  Invalid argument supplied for foreach() in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[25-Aug-2009 16:00:02] PHP Notice:  Undefined index:  Feed in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[25-Aug-2009 16:00:02] PHP Warning:  Invalid argument supplied for foreach() in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[25-Aug-2009 16:05:02] PHP Notice:  Undefined index:  Feed in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[25-Aug-2009 16:05:02] PHP Warning:  Invalid argument supplied for foreach() in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[25-Aug-2009 16:20:04] PHP Notice:  Undefined index:  Feed in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[25-Aug-2009 16:20:04] PHP Warning:  Invalid argument supplied for foreach() in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[25-Aug-2009 16:30:07] PHP Notice:  Undefined index:  Feed in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[25-Aug-2009 16:30:07] PHP Warning:  Invalid argument supplied for foreach() in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[25-Aug-2009 16:45:02] PHP Notice:  Undefined index:  Feed in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[25-Aug-2009 16:45:02] PHP Warning:  Invalid argument supplied for foreach() in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[25-Aug-2009 17:45:03] PHP Notice:  Undefined index:  Feed in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[25-Aug-2009 17:45:03] PHP Warning:  Invalid argument supplied for foreach() in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[25-Aug-2009 17:50:03] PHP Notice:  Undefined index:  Feed in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[25-Aug-2009 17:50:03] PHP Warning:  Invalid argument supplied for foreach() in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[25-Aug-2009 18:00:03] PHP Notice:  Undefined index:  Feed in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[25-Aug-2009 18:00:03] PHP Warning:  Invalid argument supplied for foreach() in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[25-Aug-2009 18:15:02] PHP Notice:  Undefined index:  Feed in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[25-Aug-2009 18:15:02] PHP Warning:  Invalid argument supplied for foreach() in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[25-Aug-2009 18:25:07] PHP Notice:  Undefined index:  Feed in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[25-Aug-2009 18:25:07] PHP Warning:  Invalid argument supplied for foreach() in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[25-Aug-2009 18:40:02] PHP Notice:  Undefined index:  Feed in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[25-Aug-2009 18:40:02] PHP Warning:  Invalid argument supplied for foreach() in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[25-Aug-2009 19:20:02] PHP Notice:  Undefined index:  Feed in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[25-Aug-2009 19:20:02] PHP Warning:  Invalid argument supplied for foreach() in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[25-Aug-2009 19:30:03] PHP Notice:  Undefined index:  Feed in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[25-Aug-2009 19:30:03] PHP Warning:  Invalid argument supplied for foreach() in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[25-Aug-2009 19:55:02] PHP Notice:  Undefined index:  Feed in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[25-Aug-2009 19:55:02] PHP Warning:  Invalid argument supplied for foreach() in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[25-Aug-2009 20:35:02] PHP Notice:  Undefined index:  Feed in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[25-Aug-2009 20:35:02] PHP Warning:  Invalid argument supplied for foreach() in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[25-Aug-2009 21:00:03] PHP Notice:  Undefined index:  Feed in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[25-Aug-2009 21:00:03] PHP Warning:  Invalid argument supplied for foreach() in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[25-Aug-2009 21:15:02] PHP Notice:  Undefined index:  Feed in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[25-Aug-2009 21:15:02] PHP Warning:  Invalid argument supplied for foreach() in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[25-Aug-2009 21:30:03] PHP Notice:  Undefined index:  Feed in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[25-Aug-2009 21:30:03] PHP Warning:  Invalid argument supplied for foreach() in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[25-Aug-2009 22:05:01] PHP Notice:  Undefined index:  Feed in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[25-Aug-2009 22:05:01] PHP Warning:  Invalid argument supplied for foreach() in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[25-Aug-2009 22:15:02] PHP Notice:  Undefined index:  Feed in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[25-Aug-2009 22:15:02] PHP Warning:  Invalid argument supplied for foreach() in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[25-Aug-2009 22:30:03] PHP Notice:  Undefined index:  Feed in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[25-Aug-2009 22:30:03] PHP Warning:  Invalid argument supplied for foreach() in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[25-Aug-2009 22:35:02] PHP Notice:  Undefined index:  Feed in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[25-Aug-2009 22:35:02] PHP Warning:  Invalid argument supplied for foreach() in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[25-Aug-2009 23:01:03] PHP Notice:  Undefined index:  Feed in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[25-Aug-2009 23:01:03] PHP Warning:  Invalid argument supplied for foreach() in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[25-Aug-2009 23:11:02] PHP Notice:  Undefined index:  Feed in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[25-Aug-2009 23:11:02] PHP Warning:  Invalid argument supplied for foreach() in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[25-Aug-2009 23:20:02] PHP Notice:  Undefined index:  Feed in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[25-Aug-2009 23:20:02] PHP Warning:  Invalid argument supplied for foreach() in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[25-Aug-2009 23:26:02] PHP Notice:  Undefined index:  Feed in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[25-Aug-2009 23:26:02] PHP Warning:  Invalid argument supplied for foreach() in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[25-Aug-2009 23:31:03] PHP Notice:  Undefined index:  Feed in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[25-Aug-2009 23:31:03] PHP Warning:  Invalid argument supplied for foreach() in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[25-Aug-2009 23:36:02] PHP Notice:  Undefined index:  Feed in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[25-Aug-2009 23:36:02] PHP Warning:  Invalid argument supplied for foreach() in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[25-Aug-2009 23:41:02] PHP Notice:  Undefined index:  Feed in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[25-Aug-2009 23:41:02] PHP Warning:  Invalid argument supplied for foreach() in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[25-Aug-2009 23:46:02] PHP Notice:  Undefined index:  Feed in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[25-Aug-2009 23:46:02] PHP Warning:  Invalid argument supplied for foreach() in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[25-Aug-2009 23:51:03] PHP Notice:  Undefined index:  Feed in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[25-Aug-2009 23:51:03] PHP Warning:  Invalid argument supplied for foreach() in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[25-Aug-2009 23:55:02] PHP Notice:  Undefined index:  Feed in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[25-Aug-2009 23:55:02] PHP Warning:  Invalid argument supplied for foreach() in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[26-Aug-2009 00:25:02] PHP Notice:  Undefined index:  Feed in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[26-Aug-2009 00:25:02] PHP Warning:  Invalid argument supplied for foreach() in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[26-Aug-2009 00:35:02] PHP Notice:  Undefined index:  Feed in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[26-Aug-2009 00:35:02] PHP Warning:  Invalid argument supplied for foreach() in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[26-Aug-2009 00:40:03] PHP Notice:  Undefined index:  Feed in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[26-Aug-2009 00:40:03] PHP Warning:  Invalid argument supplied for foreach() in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[26-Aug-2009 00:45:02] PHP Notice:  Undefined index:  Feed in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[26-Aug-2009 00:45:02] PHP Warning:  Invalid argument supplied for foreach() in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[26-Aug-2009 02:00:03] PHP Notice:  Undefined index:  Feed in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[26-Aug-2009 02:00:03] PHP Warning:  Invalid argument supplied for foreach() in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[26-Aug-2009 02:05:02] PHP Notice:  Undefined index:  Feed in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[26-Aug-2009 02:05:02] PHP Warning:  Invalid argument supplied for foreach() in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[26-Aug-2009 02:15:02] PHP Notice:  Undefined index:  Feed in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[26-Aug-2009 02:15:02] PHP Warning:  Invalid argument supplied for foreach() in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[26-Aug-2009 02:55:07] PHP Notice:  Undefined index:  Feed in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[26-Aug-2009 02:55:07] PHP Warning:  Invalid argument supplied for foreach() in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[26-Aug-2009 03:00:02] PHP Notice:  Undefined index:  Feed in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[26-Aug-2009 03:00:02] PHP Warning:  Invalid argument supplied for foreach() in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[26-Aug-2009 03:05:02] PHP Notice:  Undefined index:  Feed in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[26-Aug-2009 03:05:02] PHP Warning:  Invalid argument supplied for foreach() in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[26-Aug-2009 03:35:02] PHP Notice:  Undefined index:  Feed in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[26-Aug-2009 03:35:02] PHP Warning:  Invalid argument supplied for foreach() in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[26-Aug-2009 03:50:03] PHP Notice:  Undefined index:  Feed in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[26-Aug-2009 03:50:03] PHP Warning:  Invalid argument supplied for foreach() in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[26-Aug-2009 04:20:02] PHP Notice:  Undefined index:  Feed in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[26-Aug-2009 04:20:02] PHP Warning:  Invalid argument supplied for foreach() in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[26-Aug-2009 04:25:02] PHP Notice:  Undefined index:  Feed in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[26-Aug-2009 04:25:02] PHP Warning:  Invalid argument supplied for foreach() in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[26-Aug-2009 04:31:07] PHP Notice:  Undefined index:  Feed in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[26-Aug-2009 04:31:07] PHP Warning:  Invalid argument supplied for foreach() in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[26-Aug-2009 05:00:02] PHP Notice:  Undefined index:  Feed in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[26-Aug-2009 05:00:02] PHP Warning:  Invalid argument supplied for foreach() in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[26-Aug-2009 05:40:03] PHP Notice:  Undefined index:  Feed in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[26-Aug-2009 05:40:03] PHP Warning:  Invalid argument supplied for foreach() in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[26-Aug-2009 06:30:03] PHP Notice:  Undefined index:  Feed in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[26-Aug-2009 06:30:03] PHP Warning:  Invalid argument supplied for foreach() in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[26-Aug-2009 06:35:06] PHP Notice:  Undefined index:  Feed in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[26-Aug-2009 06:35:06] PHP Warning:  Invalid argument supplied for foreach() in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[26-Aug-2009 06:40:02] PHP Notice:  Undefined index:  Feed in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[26-Aug-2009 06:40:02] PHP Warning:  Invalid argument supplied for foreach() in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[26-Aug-2009 06:45:03] PHP Notice:  Undefined index:  Feed in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[26-Aug-2009 06:45:03] PHP Warning:  Invalid argument supplied for foreach() in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[26-Aug-2009 07:00:02] PHP Notice:  Undefined index:  Feed in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[26-Aug-2009 07:00:02] PHP Warning:  Invalid argument supplied for foreach() in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[26-Aug-2009 07:05:02] PHP Notice:  Undefined index:  Feed in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[26-Aug-2009 07:05:02] PHP Warning:  Invalid argument supplied for foreach() in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[26-Aug-2009 07:10:02] PHP Notice:  Undefined index:  Feed in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[26-Aug-2009 07:10:02] PHP Warning:  Invalid argument supplied for foreach() in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[26-Aug-2009 07:20:02] PHP Notice:  Undefined index:  Feed in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[26-Aug-2009 07:20:02] PHP Warning:  Invalid argument supplied for foreach() in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[26-Aug-2009 07:25:02] PHP Notice:  Undefined index:  Feed in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[26-Aug-2009 07:25:02] PHP Warning:  Invalid argument supplied for foreach() in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[26-Aug-2009 07:35:02] PHP Notice:  Undefined index:  Feed in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[26-Aug-2009 07:35:02] PHP Warning:  Invalid argument supplied for foreach() in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[26-Aug-2009 07:45:03] PHP Notice:  Undefined index:  Feed in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[26-Aug-2009 07:45:03] PHP Warning:  Invalid argument supplied for foreach() in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[26-Aug-2009 08:00:03] PHP Notice:  Undefined index:  Feed in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[26-Aug-2009 08:00:03] PHP Warning:  Invalid argument supplied for foreach() in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[26-Aug-2009 08:15:02] PHP Notice:  Undefined index:  Feed in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[26-Aug-2009 08:15:02] PHP Warning:  Invalid argument supplied for foreach() in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[26-Aug-2009 08:25:02] PHP Notice:  Undefined index:  Feed in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[26-Aug-2009 08:25:02] PHP Warning:  Invalid argument supplied for foreach() in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[26-Aug-2009 08:30:03] PHP Notice:  Undefined index:  Feed in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[26-Aug-2009 08:30:03] PHP Warning:  Invalid argument supplied for foreach() in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[26-Aug-2009 08:45:01] PHP Notice:  Undefined index:  Feed in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[26-Aug-2009 08:45:01] PHP Warning:  Invalid argument supplied for foreach() in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[26-Aug-2009 09:25:02] PHP Notice:  Undefined index:  Feed in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[26-Aug-2009 09:25:02] PHP Warning:  Invalid argument supplied for foreach() in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[26-Aug-2009 09:40:02] PHP Notice:  Undefined index:  Feed in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[26-Aug-2009 09:40:02] PHP Warning:  Invalid argument supplied for foreach() in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[26-Aug-2009 09:50:02] PHP Notice:  Undefined index:  Feed in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[26-Aug-2009 09:50:02] PHP Warning:  Invalid argument supplied for foreach() in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[26-Aug-2009 10:00:02] PHP Notice:  Undefined index:  Feed in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[26-Aug-2009 10:00:02] PHP Warning:  Invalid argument supplied for foreach() in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[26-Aug-2009 10:20:02] PHP Notice:  Undefined index:  Feed in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[26-Aug-2009 10:20:02] PHP Warning:  Invalid argument supplied for foreach() in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[26-Aug-2009 10:45:02] PHP Notice:  Undefined index:  Feed in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[26-Aug-2009 10:45:02] PHP Warning:  Invalid argument supplied for foreach() in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[26-Aug-2009 11:15:02] PHP Notice:  Undefined index:  Feed in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[26-Aug-2009 11:15:02] PHP Warning:  Invalid argument supplied for foreach() in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[26-Aug-2009 11:30:08] PHP Notice:  Undefined index:  Feed in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[26-Aug-2009 11:30:08] PHP Warning:  Invalid argument supplied for foreach() in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[26-Aug-2009 11:35:08] PHP Notice:  Undefined index:  Feed in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[26-Aug-2009 11:35:08] PHP Warning:  Invalid argument supplied for foreach() in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[26-Aug-2009 11:45:03] PHP Notice:  Undefined index:  Feed in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[26-Aug-2009 11:45:03] PHP Warning:  Invalid argument supplied for foreach() in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[26-Aug-2009 12:00:03] PHP Notice:  Undefined index:  Feed in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[26-Aug-2009 12:00:03] PHP Warning:  Invalid argument supplied for foreach() in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[26-Aug-2009 12:30:09] PHP Notice:  Undefined index:  Feed in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[26-Aug-2009 12:30:09] PHP Warning:  Invalid argument supplied for foreach() in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[26-Aug-2009 13:15:03] PHP Notice:  Undefined index:  Feed in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[26-Aug-2009 13:15:03] PHP Warning:  Invalid argument supplied for foreach() in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[26-Aug-2009 13:20:02] PHP Notice:  Undefined index:  Feed in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[26-Aug-2009 13:20:02] PHP Warning:  Invalid argument supplied for foreach() in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[26-Aug-2009 13:45:03] PHP Notice:  Undefined index:  Feed in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[26-Aug-2009 13:45:03] PHP Warning:  Invalid argument supplied for foreach() in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[26-Aug-2009 13:50:09] PHP Notice:  Undefined index:  Feed in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[26-Aug-2009 13:50:09] PHP Warning:  Invalid argument supplied for foreach() in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[26-Aug-2009 14:10:03] PHP Notice:  Undefined index:  Feed in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[26-Aug-2009 14:10:03] PHP Warning:  Invalid argument supplied for foreach() in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[26-Aug-2009 14:35:02] PHP Notice:  Undefined index:  Feed in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[26-Aug-2009 14:35:02] PHP Warning:  Invalid argument supplied for foreach() in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[26-Aug-2009 14:40:02] PHP Notice:  Undefined index:  Feed in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[26-Aug-2009 14:40:02] PHP Warning:  Invalid argument supplied for foreach() in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[26-Aug-2009 14:45:02] PHP Notice:  Undefined index:  Feed in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[26-Aug-2009 14:45:02] PHP Warning:  Invalid argument supplied for foreach() in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[26-Aug-2009 14:55:03] PHP Notice:  Undefined index:  Feed in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[26-Aug-2009 14:55:03] PHP Warning:  Invalid argument supplied for foreach() in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[26-Aug-2009 15:00:02] PHP Notice:  Undefined index:  Feed in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[26-Aug-2009 15:00:02] PHP Warning:  Invalid argument supplied for foreach() in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[28-Aug-2009 00:05:02] PHP Notice:  Undefined index:  Feed in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[28-Aug-2009 00:05:02] PHP Warning:  Invalid argument supplied for foreach() in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[28-Aug-2009 16:10:02] PHP Notice:  Undefined index:  Feed in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[28-Aug-2009 16:10:02] PHP Warning:  Invalid argument supplied for foreach() in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[28-Aug-2009 17:25:02] PHP Notice:  Undefined index:  Feed in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[28-Aug-2009 17:25:02] PHP Warning:  Invalid argument supplied for foreach() in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[28-Aug-2009 17:35:02] PHP Notice:  Undefined index:  Feed in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[28-Aug-2009 17:35:02] PHP Warning:  Invalid argument supplied for foreach() in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[28-Aug-2009 17:50:03] PHP Notice:  Undefined index:  Feed in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[28-Aug-2009 17:50:03] PHP Warning:  Invalid argument supplied for foreach() in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[28-Aug-2009 17:55:03] PHP Notice:  Undefined index:  Feed in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[28-Aug-2009 17:55:03] PHP Warning:  Invalid argument supplied for foreach() in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[28-Aug-2009 18:15:02] PHP Notice:  Undefined index:  Feed in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[28-Aug-2009 18:15:02] PHP Warning:  Invalid argument supplied for foreach() in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[28-Aug-2009 18:35:03] PHP Notice:  Undefined index:  Feed in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[28-Aug-2009 18:35:03] PHP Warning:  Invalid argument supplied for foreach() in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[28-Aug-2009 18:40:02] PHP Notice:  Undefined index:  Feed in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[28-Aug-2009 18:40:02] PHP Warning:  Invalid argument supplied for foreach() in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[28-Aug-2009 19:30:02] PHP Notice:  Undefined index:  Feed in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[28-Aug-2009 19:30:02] PHP Warning:  Invalid argument supplied for foreach() in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[28-Aug-2009 20:55:03] PHP Notice:  Undefined index:  Feed in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[28-Aug-2009 20:55:03] PHP Warning:  Invalid argument supplied for foreach() in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[28-Aug-2009 22:15:02] PHP Notice:  Undefined index:  Feed in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[28-Aug-2009 22:15:02] PHP Warning:  Invalid argument supplied for foreach() in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[28-Aug-2009 22:30:02] PHP Notice:  Undefined index:  Feed in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[28-Aug-2009 22:30:02] PHP Warning:  Invalid argument supplied for foreach() in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[28-Aug-2009 23:10:02] PHP Notice:  Undefined index:  Feed in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[28-Aug-2009 23:10:02] PHP Warning:  Invalid argument supplied for foreach() in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[28-Aug-2009 23:35:02] PHP Notice:  Undefined index:  Feed in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[28-Aug-2009 23:35:02] PHP Warning:  Invalid argument supplied for foreach() in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[28-Aug-2009 23:45:02] PHP Notice:  Undefined index:  Feed in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[28-Aug-2009 23:45:02] PHP Warning:  Invalid argument supplied for foreach() in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[29-Aug-2009 00:15:03] PHP Notice:  Undefined index:  Feed in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[29-Aug-2009 00:15:03] PHP Warning:  Invalid argument supplied for foreach() in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[29-Aug-2009 01:00:02] PHP Notice:  Undefined index:  Feed in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[29-Aug-2009 01:00:02] PHP Warning:  Invalid argument supplied for foreach() in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[29-Aug-2009 01:35:03] PHP Notice:  Undefined index:  Feed in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[29-Aug-2009 01:35:03] PHP Warning:  Invalid argument supplied for foreach() in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[29-Aug-2009 04:15:02] PHP Notice:  Undefined index:  Feed in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[29-Aug-2009 04:15:03] PHP Warning:  Invalid argument supplied for foreach() in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[29-Aug-2009 04:35:02] PHP Notice:  Undefined index:  Feed in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[29-Aug-2009 04:35:02] PHP Warning:  Invalid argument supplied for foreach() in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[29-Aug-2009 06:00:02] PHP Notice:  Undefined index:  Feed in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[29-Aug-2009 06:00:02] PHP Warning:  Invalid argument supplied for foreach() in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[29-Aug-2009 06:45:02] PHP Notice:  Undefined index:  Feed in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[29-Aug-2009 06:45:02] PHP Warning:  Invalid argument supplied for foreach() in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[29-Aug-2009 07:10:03] PHP Notice:  Undefined index:  Feed in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[29-Aug-2009 07:10:03] PHP Warning:  Invalid argument supplied for foreach() in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[29-Aug-2009 08:05:03] PHP Notice:  Undefined index:  Feed in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[29-Aug-2009 08:05:03] PHP Warning:  Invalid argument supplied for foreach() in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[29-Aug-2009 08:10:03] PHP Notice:  Undefined index:  Feed in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[29-Aug-2009 08:10:03] PHP Warning:  Invalid argument supplied for foreach() in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[29-Aug-2009 08:15:02] PHP Notice:  Undefined index:  Feed in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[29-Aug-2009 08:15:02] PHP Warning:  Invalid argument supplied for foreach() in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[29-Aug-2009 08:30:03] PHP Notice:  Undefined index:  Feed in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[29-Aug-2009 08:30:03] PHP Warning:  Invalid argument supplied for foreach() in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[29-Aug-2009 08:55:02] PHP Notice:  Undefined index:  Feed in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[29-Aug-2009 08:55:02] PHP Warning:  Invalid argument supplied for foreach() in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[29-Aug-2009 09:00:08] PHP Notice:  Undefined index:  Feed in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[29-Aug-2009 09:00:08] PHP Warning:  Invalid argument supplied for foreach() in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[29-Aug-2009 09:10:07] PHP Notice:  Undefined index:  Feed in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[29-Aug-2009 09:10:07] PHP Warning:  Invalid argument supplied for foreach() in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[29-Aug-2009 09:25:03] PHP Notice:  Undefined index:  Feed in /home/productt/public_html/app/vendors/shells/twitter.php on line 15
+[29-Aug-2009 09:25:03] PHP Warning:  Invalid argument supplied for foreach() in /home/productt/public_html/app/vendors/shells/twitter.php on line 15

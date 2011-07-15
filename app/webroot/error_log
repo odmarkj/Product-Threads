@@ -1,0 +1,80 @@
+[17-Aug-2009 23:38:30] PHP Fatal error:  Call to a member function find() on a non-object in /home/productt/public_html/app/controllers/records_controller.php on line 50
+[18-Aug-2009 10:21:16] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_FUNCTION in /home/productt/public_html/app/controllers/records_controller.php on line 5
+[18-Aug-2009 10:21:30] PHP Fatal error:  Cannot redeclare Record::$hasMany in /home/productt/public_html/app/models/record.php on line 7
+[18-Aug-2009 19:38:44] PHP Fatal error:  Call to undefined function  debut() in /home/productt/public_html/app/views/topics/view.ctp on line 53
+[18-Aug-2009 19:46:15] PHP Fatal error:  Call to a member function find() on a non-object in /home/productt/public_html/app/controllers/topics_controller.php on line 20
+[18-Aug-2009 19:46:33] PHP Fatal error:  Call to a member function find() on a non-object in /home/productt/public_html/app/controllers/topics_controller.php on line 20
+[19-Aug-2009 18:15:01] PHP Fatal error:  Call to a member function link() on a non-object in /home/productt/public_html/app/views/layouts/default.ctp on line 8
+[20-Aug-2009 15:38:18] PHP Fatal error:  Call to a member function search() on a non-object in /home/productt/public_html/app/controllers/records_controller.php on line 73
+[20-Aug-2009 15:48:25] PHP Parse error:  syntax error, unexpected ';' in /home/productt/public_html/app/controllers/records_controller.php on line 73
+[20-Aug-2009 15:57:13] PHP Fatal error:  Call to a member function searchModels() on a non-object in /home/productt/public_html/app/controllers/records_controller.php on line 73
+[20-Aug-2009 18:43:47] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/productt/public_html/app/controllers/app_controller.php on line 27
+[20-Aug-2009 18:44:20] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/productt/public_html/app/controllers/app_controller.php on line 27
+[20-Aug-2009 18:45:44] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/productt/public_html/app/controllers/app_controller.php on line 27
+[20-Aug-2009 19:43:27] PHP Fatal error:  Call to a member function read() on a non-object in /home/productt/public_html/app/views/threads/add.ctp on line 22
+[20-Aug-2009 19:53:01] PHP Fatal error:  Cannot use object of type SessionHelper as array in /home/productt/public_html/app/views/threads/add.ctp on line 2
+[20-Aug-2009 21:25:25] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_FUNCTION in /home/productt/public_html/app/controllers/app_controller.php on line 5
+[21-Aug-2009 00:38:31] PHP Fatal error:  Call to a member function setPaging() on a non-object in /home/productt/public_html/app/views/records/view.ctp on line 102
+[21-Aug-2009 00:42:46] PHP Fatal error:  Call to a member function setPaging() on a non-object in /home/productt/public_html/app/views/records/view.ctp on line 102
+[21-Aug-2009 00:42:55] PHP Fatal error:  Call to a member function setPaging() on a non-object in /home/productt/public_html/app/views/records/view.ctp on line 102
+[21-Aug-2009 01:14:52] PHP Parse error:  syntax error, unexpected ')', expecting T_VARIABLE or '$' in /home/productt/public_html/app/views/threads/add.ctp on line 21
+[21-Aug-2009 01:17:32] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ',' or ';' in /home/productt/public_html/app/views/topics/view.ctp on line 16
+[21-Aug-2009 01:17:48] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ',' or ';' in /home/productt/public_html/app/views/topics/view.ctp on line 16
+[21-Aug-2009 01:18:22] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ',' or ';' in /home/productt/public_html/app/views/topics/view.ctp on line 16
+[21-Aug-2009 01:19:12] PHP Fatal error:  Call to undefined function  find_has() in /home/productt/public_html/app/views/topics/view.ctp on line 16
+[21-Aug-2009 01:19:24] PHP Fatal error:  Call to undefined function  find_hash() in /home/productt/public_html/app/views/topics/view.ctp on line 16
+[21-Aug-2009 17:04:33] PHP Fatal error:  Call to a member function getHtml() on a non-object in /home/productt/public_html/app/views/records/view.ctp on line 3
+[21-Aug-2009 17:04:53] PHP Fatal error:  Call to a member function getHtml() on a non-object in /home/productt/public_html/app/views/records/view.ctp on line 3
+[21-Aug-2009 22:44:13] PHP Parse error:  syntax error, unexpected ')' in /home/productt/public_html/app/controllers/users_controller.php on line 25
+[21-Aug-2009 22:50:59] PHP Fatal error:  Call to a member function read() on a non-object in /home/productt/public_html/app/controllers/users_controller.php on line 25
+[21-Aug-2009 22:56:06] PHP Parse error:  syntax error, unexpected '-', expecting T_VARIABLE or '$' in /home/productt/public_html/app/controllers/users_controller.php on line 25
+[21-Aug-2009 23:28:52] PHP Fatal error:  Call to a member function getHtml() on a non-object in /home/productt/public_html/app/views/users/index.ctp on line 2
+[21-Aug-2009 23:40:53] PHP Parse error:  syntax error, unexpected ',' in /home/productt/public_html/app/views/records/view.ctp on line 76
+[22-Aug-2009 00:51:49] PHP Parse error:  syntax error, unexpected ')' in /home/productt/public_html/app/controllers/records_controller.php on line 101
+[22-Aug-2009 16:37:59] PHP Fatal error:  Cannot use object of type SessionHelper as array in /home/productt/public_html/app/views/records/view.ctp on line 119
+[22-Aug-2009 16:39:53] PHP Fatal error:  Call to a member function write() on a non-object in /home/productt/public_html/app/views/records/view.ctp on line 119
+[22-Aug-2009 16:59:16] PHP Fatal error:  Call to a member function setUserActivity() on a non-object in /home/productt/public_html/app/controllers/records_controller.php on line 36
+[22-Aug-2009 17:00:10] PHP Fatal error:  Call to a member function setUserActivity() on a non-object in /home/productt/public_html/app/controllers/records_controller.php on line 36
+[22-Aug-2009 18:13:44] PHP Fatal error:  Call to a member function write() on a non-object in /home/productt/public_html/app/controllers/records_controller.php on line 36
+[22-Aug-2009 18:27:53] PHP Fatal error:  Call to undefined method CookieComponent::check() in /home/productt/public_html/app/controllers/records_controller.php on line 40
+[22-Aug-2009 20:13:53] PHP Fatal error:  Call to a member function save() on a non-object in /home/productt/public_html/app/controllers/topics_controller.php on line 116
+[22-Aug-2009 20:17:16] PHP Fatal error:  Call to a member function read() on a non-object in /home/productt/public_html/app/controllers/topics_controller.php on line 36
+[22-Aug-2009 21:18:17] PHP Parse error:  syntax error, unexpected ';', expecting T_FUNCTION in /home/productt/public_html/app/controllers/records_controller.php on line 132
+[22-Aug-2009 22:10:20] PHP Fatal error:  Call to a member function connect() on a non-object in /home/productt/public_html/app/config/routes.php on line 39
+[22-Aug-2009 22:10:41] PHP Parse error:  syntax error, unexpected T_PAAMAYIM_NEKUDOTAYIM in /home/productt/public_html/app/config/routes.php on line 39
+[22-Aug-2009 22:33:48] PHP Parse error:  syntax error, unexpected ';' in /home/productt/public_html/app/controllers/records_controller.php on line 18
+[22-Aug-2009 22:41:16] PHP Parse error:  syntax error, unexpected ';' in /home/productt/public_html/app/controllers/records_controller.php on line 19
+[22-Aug-2009 22:45:18] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in /home/productt/public_html/app/controllers/records_controller.php on line 19
+[22-Aug-2009 22:45:33] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in /home/productt/public_html/app/controllers/records_controller.php on line 19
+[22-Aug-2009 22:45:58] PHP Parse error:  syntax error, unexpected ';' in /home/productt/public_html/app/controllers/records_controller.php on line 19
+[22-Aug-2009 23:34:58] PHP Fatal error:  Call to a member function read() on a non-object in /home/productt/public_html/app/controllers/users_controller.php on line 31
+[23-Aug-2009 13:30:46] PHP Parse error:  syntax error, unexpected ')' in /home/productt/public_html/app/controllers/topics_controller.php on line 96
+[23-Aug-2009 14:57:26] PHP Parse error:  syntax error, unexpected ';' in /home/productt/public_html/app/controllers/records_controller.php on line 50
+[23-Aug-2009 22:18:21] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in /home/productt/public_html/app/controllers/records_controller.php on line 50
+[23-Aug-2009 22:19:29] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in /home/productt/public_html/app/controllers/records_controller.php on line 50
+[23-Aug-2009 22:20:45] PHP Parse error:  syntax error, unexpected ')' in /home/productt/public_html/app/controllers/records_controller.php on line 50
+[24-Aug-2009 00:03:38] PHP Fatal error:  Call to undefined method Facebook::users_getInfo() in /home/productt/public_html/app/vendors/facebook/facebook.php on line 302
+[24-Aug-2009 00:22:12] PHP Fatal error:  Call to a member function read() on a non-object in /home/productt/public_html/app/controllers/users_controller.php on line 31
+[24-Aug-2009 03:24:24] PHP Parse error:  syntax error, unexpected '*', expecting ')' in /home/productt/public_html/app/controllers/users_controller.php on line 13
+[24-Aug-2009 03:27:05] PHP Fatal error:  Call to a member function get_loggedin_user() on a non-object in /home/productt/public_html/app/controllers/app_controller.php on line 36
+[24-Aug-2009 03:28:35] PHP Fatal error:  Call to undefined method stdClass::User() in /home/productt/public_html/app/controllers/app_controller.php on line 36
+[24-Aug-2009 03:29:00] PHP Fatal error:  Call to undefined method stdClass::User() in /home/productt/public_html/app/controllers/app_controller.php on line 36
+[24-Aug-2009 03:52:50] PHP Fatal error:  Call to a member function allow() on a non-object in /home/productt/public_html/app/controllers/records_controller.php on line 11
+[24-Aug-2009 03:53:03] PHP Fatal error:  Can't use method return value in write context in /home/productt/public_html/app/controllers/records_controller.php on line 10
+[24-Aug-2009 04:05:28] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in /home/productt/public_html/app/controllers/records_controller.php on line 47
+[24-Aug-2009 04:05:35] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in /home/productt/public_html/app/controllers/records_controller.php on line 47
+[25-Aug-2009 00:23:12] PHP Parse error:  syntax error, unexpected '}' in /home/productt/public_html/app/controllers/topics_controller.php on line 175
+[25-Aug-2009 18:43:50] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in /home/productt/public_html/app/controllers/topics_controller.php on line 95
+[25-Aug-2009 18:44:04] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in /home/productt/public_html/app/controllers/topics_controller.php on line 95
+[25-Aug-2009 18:44:21] PHP Parse error:  syntax error, unexpected ';' in /home/productt/public_html/app/controllers/topics_controller.php on line 95
+[25-Aug-2009 18:44:36] PHP Parse error:  syntax error, unexpected ';' in /home/productt/public_html/app/controllers/topics_controller.php on line 95
+[27-Aug-2009 21:10:44] PHP Fatal error:  Call to a member function find() on a non-object in /home/productt/public_html/app/controllers/threads_controller.php on line 65
+[27-Aug-2009 21:12:00] PHP Fatal error:  Call to a member function create() on a non-object in /home/productt/public_html/app/controllers/threads_controller.php on line 42
+[27-Aug-2009 21:14:56] PHP Fatal error:  Call to a member function create() on a non-object in /home/productt/public_html/app/controllers/threads_controller.php on line 37
+[27-Aug-2009 22:36:05] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in /home/productt/public_html/app/controllers/records_controller.php on line 56
+[27-Aug-2009 22:46:19] PHP Fatal error:  Cannot redeclare Record::$hasMany in /home/productt/public_html/app/models/record.php on line 7
+[27-Aug-2009 22:46:43] PHP Fatal error:  Cannot redeclare Record::$hasMany in /home/productt/public_html/app/models/record.php on line 7
+[28-Aug-2009 23:26:04] PHP Fatal error:  Can't use method return value in write context in /home/productt/public_html/app/controllers/records_controller.php on line 53
+[28-Aug-2009 23:26:37] PHP Parse error:  syntax error, unexpected ';' in /home/productt/public_html/app/controllers/records_controller.php on line 53
+[28-Aug-2009 23:27:06] PHP Parse error:  syntax error, unexpected ';' in /home/productt/public_html/app/controllers/records_controller.php on line 53
+[28-Aug-2009 23:29:20] PHP Parse error:  syntax error, unexpected ';' in /home/productt/public_html/app/controllers/records_controller.php on line 53

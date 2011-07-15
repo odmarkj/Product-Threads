@@ -1,0 +1,210 @@
+@import url("/css/v1/button.css");
+
+body{
+	margin: 0 auto;
+	text-align: center;
+	font-family: trebuchet ms;
+	font-size: 12px;
+}
+#clear{
+	clear: both;
+}
+#container{
+	margin: 0 auto;
+	text-align: left;
+}
+#logo{
+	width: 50%;
+	float: left;
+	text-align: left;
+	padding: 5px 0px 0px 0px;
+}
+#connect{
+	width: 50%;
+	float: right;
+	text-align: right;
+	padding: 15px 0px 5px 0px;
+}
+#connect a{
+	color: #202020;
+	text-decoration: none;
+}
+#connect a:hover{
+	color: #000000;
+	text-decoration: underline;
+}
+#search{
+	background-color: #ff8711;
+	color: #ffffff;
+	padding: 10px 0px 10px 0px;
+	margin: 5px 0px 10px 0px;
+	text-align: center;
+	height: 20px;
+}
+#content{
+	margin: 0px 15px 0px 15px;
+	background-color: #ffffff;
+}
+#theBody{
+	padding: 5px 0px 0px 0px;
+}
+#main{
+	background-color: #ffffff;
+	padding: 10px;
+}
+.breadcrumb{
+	font-size: 12px;
+	color: #666666;
+	margin: 0px 0px 5px 0px;
+}
+a.crumb_link{
+	color: #000000;
+	font-size: 12px;
+}
+a:hover.crumb_link{
+	text-decoration: none;
+	color: #999999;
+}
+#header-container{
+	background-color: #e4e4e4;
+	border-bottom: 3px solid #202020;
+}
+#header{
+	padding: 0px 3px 0px 8px;
+	margin: 0 auto;
+	text-align: center;
+	color: #333333;
+}
+.siteName a{
+	font-size: 22px;
+	color: #202020;
+	font-family: Georgia;
+	font-weight: bold;
+	text-decoration: none;
+}
+.siteName a:hover{
+	text-decoration: underline;
+}
+.message{
+	background-color: #eeeeee;
+	color: #202020;
+	padding: 2px 0px 2px 0px;
+	font-size: 14px;
+	font-weight: bold;
+}
+#footer{
+	background-color: #e4e4e4;
+	color: #202020;
+	padding: 8px 0px 8px 0px;
+	margin: 10px auto;
+	border-top: 3px solid #202020;
+}
+#toolbar{
+	background-color: #dcdcdc;
+	border-top: 1px solid #666666;
+	border-right: 1px solid #666666;
+	border-left: 1px solid #666666;
+	position: fixed;
+	margin: 0 auto;
+	text-align: center;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	width: 98%;
+	padding: 5px 0px 4px 0px;
+	opacity: 1;
+}
+#toolbar #apps{
+	text-align: left;
+	float: left;
+	width: 70%;
+}
+#toolbar #apps #app{
+	font-size: 12px;
+	color: #000000;
+	padding: 0px 0px 0px 5px;
+}
+#toolbar #apps #app a{
+	color: #000000;
+	text-decoration: none;
+	font-weight: bold;
+}
+#toolbar #apps #app a:hover{
+	color: #666666;
+}
+#fcontainer{
+	position: fixed;
+	margin: 0 auto;
+	bottom: 0;
+	right: 0;
+	left: 0;
+	width: 98%;
+}
+#factivity{
+	margin: 0 0 0 auto;
+	right: 0;
+	width: 170px;
+	height: 100%;
+	background-color: #ffffff;
+	border: 1px solid #666666;
+	text-align: left;
+}
+.fhead{
+	background-color: #336699;
+	color: #eeeeee;
+	padding: 4px 0px 4px 0px;
+	font-weight: bold;
+}
+.fhead a{
+	color: #ffffff;
+	text-decoration: none;
+}
+.fhead a:hover{
+	color: #000000;
+	text-decoration: none;
+}
+#factivity ul{
+	list-style: none;
+	margin: 0px 0 23px 0px;
+	padding: 0px 0px 0px 0px;
+	border-bottom: 1px solid #666666;
+}
+$factivity ul li{
+	display: block;
+}
+#factivity ul li a{
+	text-decoration: none;
+	color: #003366;
+	padding: 4px 0px 4px 5px;
+	display: block;
+}
+#factivity ul li a:hover{
+	background-color: #003366;
+	color: #ffffff;
+}
+#toolbar #activity{
+	text-align: right;
+	font-size: 12px;
+	color: #000000;
+	float: right;
+	width: 30%;
+	margin: 0px;
+	padding: 0px;
+}
+#toolbar #activity ul{
+	margin: 0px;
+	padding: 0px;
+}
+#toolbar #activity ul li{
+	display: inline;
+}
+#toolbar #activity ul li a{
+	padding: 5px 25px 5px 25px;
+	color: #333333;
+	text-decoration: none;
+	margin: 0;
+	border-left: 1px solid #999999;
+}
+#toolbar #activity ul li a:hover{
+	background-color: #ffffff;
+}

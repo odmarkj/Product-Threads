@@ -1,0 +1,451 @@
+.default{
+	margin: 0 auto;
+	text-align: center;
+}
+.default1{
+	margin: 0px;
+}
+.default1 .searchBox{
+	padding: 0px;
+	text-align: left;
+}
+.searchBox h1{
+	color: #000000;
+	font-size: 22px;
+	margin: 0px;
+}
+.searchBox .head{
+	font-size: 15px;
+	font-weight: bold;
+	color: #000000;
+}
+.searchBox .desc{
+	font-size: 14px;
+	color: #333333;
+}
+.searchBox p{
+	text-align: left;
+	margin-left: 70px;
+}
+.default2{
+	width: 55%;
+	float: right;
+	text-align: right;
+	margin-top: 0px;
+}
+.default2link{
+	list-style: none;
+	margin: 0px;
+}
+.default2link li{
+	display: inline;
+	padding: 0px 0px 0px 15px;
+}
+.default2link li a{
+	color: #000000;
+	font-size: 18px;
+	text-decoration: none;
+}
+.default2link li a:hover{
+	color: #999999;
+	text-decoration: underline;
+}
+.featuredItemContainer{
+	margin: 0 auto;
+	width: 900px;
+}
+.featuredItem{
+	text-align: center;
+	float: left;
+	width: 33%;
+}
+.featuredItem h2{
+	font-size: 16px;
+	color: #000000;
+	margin: 0px;
+}
+.featuredItem a{
+	color: #000000;
+}
+.featuredItem a:hover{
+	color: #666666;
+}
+.custom-view{
+	margin: 0 auto;
+	width: 800px;
+}
+.custom-view .userRecordContent{
+	margin: 0 auto;
+	width: 100%;
+	overflow: hidden;
+}
+.custom-view .userRecordContent h1{
+	font-size: 18px;
+	padding-bottom: 5px;
+	margin: 0px;
+}
+.custom-view .userRecordContent .tags{
+	font-size: 11px;
+	padding-top: 5px;
+}
+.topicNav{
+	list-style: none;
+	margin: 0px 0px 3px 0px;
+}
+.topicNav li{
+	display: inline;
+}
+.topicNav li a{
+	font-size: 14px;
+	color: #000000;
+	padding: 5px 15px 3px 15px;
+	background-color: #cccccc;
+	text-decoration: none;
+}
+.topicNav li a:hover{
+	color: #999999;
+}
+.topics{
+	
+}
+.view{
+	padding: 10px 0px 10px 0px;
+}
+.view h1{
+	margin: 0px;
+	padding: 0px;
+	font-size: 22px;
+	color: #111111;
+}
+.view p{
+	font-size: 14px;
+	color: #111111;
+	margin: 0px;
+	padding: 0px;
+}
+.actions{
+	
+}
+.actions p{
+	margin: 0px;
+	padding: 5px 0px 5px 0px;
+}
+.related{
+	padding: 5px;
+	background-color: #5f789e;
+}
+.related h2{
+	margin: 0px;
+	padding: 0px;
+	color: #ffffff;
+	font-size: 16px;
+}
+.inner{
+	background-color: #ffffff;
+}
+.topiclist{
+	margin: 0px;
+	padding: 0px;
+	list-style: none;
+}
+.header{
+	color: #ffffff;
+	padding: 2px 0px 4px 0px;
+}
+.icon{
+
+}
+.name{
+	font-weight: bold;
+	text-align: left;
+	padding: 5px 5px 5px 5px;
+}
+.threads{
+	text-align: center;
+}
+.views{
+	text-align: center;
+}
+.lastpost{
+	text-align: left;
+	padding: 0px 0px 0px 5px;
+}
+
+.row{
+	padding: 2px;
+	border-bottom: 1px solid #333333;
+	background-color: #ecf3f7;
+}
+
+a.subject{
+	font-weight: normal;
+	color: #003366;
+	text-decoration: none;
+	font-size: 15px;
+	font-weight: bold;
+}
+
+a:hover.subject{
+	color: #333333;
+	text-decoration: underline;
+}
+
+a.author{
+	font-weight: normal;
+	color: #ff0000;
+	text-decoration: none;
+	font-size: 13px;
+}
+
+a:hover.author{
+	color: #333333;
+	text-decoration: underline;
+}
+
+.first{
+	background-color: #e1ebf2;
+	padding: 0px;
+	margin: 0px 0px 8px 0px;
+	border: 1px solid #336699;
+}
+.second{
+	background-color: #ecf3f7;
+	margin: 8px 0px 8px 0px;
+	border: 1px solid #336699;
+	padding: 0px;
+}
+.topics .topicActions{
+	margin: 8px 0px 1px 0px;
+	padding: 0px;
+	background-color: #5f789e;
+	text-align: right;
+}
+.topics .topicActions ul{
+	list-style: none;
+	margin: 0px;
+	padding: 6px 0px 6px 0px;
+}
+.topics .topicActions ul li{
+	display: inline;
+	padding: 0px;
+	margin: 0px;
+}
+.topics .topicActions ul li a{
+	text-decoration: none;
+	background-color: #01478c;
+	color: #ffffff;
+	border-left: 1px solid #ffffff;
+	padding: 6px 20px 6px 20px;
+	margin: 0px;
+	font-size: 12px;
+	font-weight: bold;
+}
+.topics .topicActions ul li a:hover{
+	text-decoration: underline;
+}
+.view .threadTitle{
+	font-weight: bold;
+	font-size: 14px;
+	color: #003366;
+	padding: 3px 0px 3px 0px;
+	border-bottom: 1px solid #cccccc;
+}
+.view .userDetails{
+	padding: 10px 10px 10px 10px;
+	font-size: 14px;
+	background-color: #d1dae0;
+	margin-right: 10px;
+}
+.view .userDetails p{
+	margin: 0px;
+	padding: 0px;
+}
+.view .userDetails .theAuthor a{
+	font-size: 18px;
+	color: #003366;
+}
+.view .userDetails .theAuthor a:hover{
+	color: #666666;
+	text-decoration: none;
+}
+.view .threadDetails{
+	padding: 4px 0px 4px 5px;
+	font-size: 12px;
+	background-color: #336699;
+	color: #ffffff;
+	margin: 0px;
+}
+.view .threadDetails a{
+	color: #ff0000;
+}
+.view .threadDetails a:hover{
+	color: #333333;
+}
+.view .threadBody{
+	font-size: 15px;
+	color: #333333;
+	padding: 10px 0px 10px 0px;
+	line-height: 1.6em;
+}
+.user_index{
+	margin: 0 auto;
+	width: 800px;
+}
+.user_index .menu{
+	width: 20%;
+	float: left;
+}
+.user_index .menu h4{
+	margin: 0px;
+	font-size: 14px;
+}
+.user_index .menu ul{
+	margin: 0px;
+	padding: 0px 0px 0px 20px;
+}
+.user_index .profile{
+	width: 80%;
+	float: right;
+}
+.user_index .activities{
+	margin: 0 auto;
+	text-align: center;
+}
+.user_index .activities .activity{
+	width: 170px;
+	float: left;
+	background-color: #c0e6f2;
+	margin: 0px 8px 0px 0px;
+	padding: 5px;
+}
+.user_index .activities .activity h3{
+	margin: 0px 0px 3px 0px;
+	font-size: 12px;
+	text-align: left;
+}
+.user_index .activities .activity ul{
+	margin: 0px;
+	padding: 0px;
+	list-style: none;
+	border-right: 1px solid #999999;
+	border-left: 1px solid #999999;
+	border-top: 1px solid #999999;
+	text-align: left;
+}
+.user_index .activities .activity li{
+	padding: 0px;
+	margin: 0px;
+	border-bottom: 1px solid #999999;
+	text-align: left;
+}
+.user_index .activities .activity li a{
+	color: #333333;
+	text-decoration: none;
+	background-color: #ffffff;
+	display: block;
+	padding: 3px 3px 3px 3px;
+}
+.user_index .activities .activity li a:hover{
+	background-color: #eeeeee;
+}
+.search_records{
+	margin: 10px 0px 10px 0px;
+}
+.records_results{
+	padding: 5px;
+	background-color: #fce1c7;
+	margin: 10px 0px 10px 0px;
+}
+.records_results h1{
+	font-size: 18px;
+	margin: 0px;
+	padding: 0px 0px 3px 0px;
+}
+.records_results ul{
+	list-style: none;
+	margin: 0px;
+	padding: 0px;
+	border-top: 1px solid #999999;
+	border-right: 1px solid #999999;
+	border-left: 1px solid #999999;
+}
+.records_results ul li a{
+	display: block;
+	background-color: #ffffff;
+	padding: 6px;
+	color: #000000;
+	border-bottom: 1px solid #999999;
+	font-size: 14px;
+	text-decoration: none;
+}
+.records_results ul li a:hover{
+	background-color: #eeeeee;
+}
+.search_records .redo{
+	width: 36%;
+	float: left;
+}
+.search_records .or{
+	width: 16%;
+	float: left;
+	font-size: 34px;
+	font-weight: bold;
+	color: #003366;
+	text-align: center;
+	padding-top: 15px;
+}
+.search_records .add{
+	width: 48%;
+	float: left;
+}
+.search_records .add h1{
+	margin: 0px;
+	padding: 0px;
+	font-size: 22px;
+}
+.threads{
+	
+}
+.threads .container{
+	padding: 10px;
+	background-color: #eeeeee;
+	margin: 10px auto;
+	width: 800px;
+	text-align: left;
+	border: 1px solid #999999;
+}
+.user_login{
+
+}
+.user_login h2{
+	margin: 0px;
+	padding: 0px;
+}
+.user_login .our{
+	width: 20%;
+	float: left;
+	text-align: left;
+}
+.user_login .or{
+	width: 35%;
+	text-align: center;
+	font-size: 32px;
+	float: left;
+}
+.user_login .facebook{
+	width: 45%;
+	float: left;
+	text-align: left;
+}
+.public-user{
+	margin: 0 auto;
+	width: 700px;
+}
+.public-user .details h1{
+	font-size: 18px;
+	margin: 10px 0px 10px 0px;;
+}
+.public-user .details p{
+	font-size: 12px;
+	margin: 0px;
+}
